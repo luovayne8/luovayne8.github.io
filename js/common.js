@@ -1,0 +1,21 @@
+$(function(){
+    $('#tab_title>li').eq(0).click(function(){
+        $(this).addClass('current').siblings().removeClass('current');
+        $('#tab_box>img').eq(0).addClass('current').siblings().removeClass('current');
+    })
+    $('#tab_title>li').eq(1).click(function(){
+        $(this).addClass('current').siblings().removeClass('current');
+        $('#tab_box>img').eq(1).addClass('current').siblings().removeClass('current');
+    })
+    $('#tab_title>li').eq(2).click(function(){
+        $(this).addClass('current').siblings().removeClass('current');
+        $('#tab_box>img').eq(2).addClass('current').siblings().removeClass('current');
+    });
+    
+    $('#btn1').click(function(){
+        $('#biye1').addClass('current').siblings().removeClass('current');
+    })
+    $('#btn2').click(function(){
+        $('#biye2').addClass('current').siblings().removeClass('current');
+    });
+})
