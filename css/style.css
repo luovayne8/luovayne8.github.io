@@ -7,7 +7,7 @@
 }
 body{
 	background: #fff;
-	font-size:12px;
+	font-size:14px;
 	font-family: 'Microsoft YaHei';
 	font-weight:normal;
 }
@@ -211,13 +211,13 @@ body{
 	top:0;
 	right:0;
 	width:537px;
-	height:585px;
+	height:600px;
 	background: #4c4b57;
 }
 #about>.about_cont>.right>.img_box{
-	margin:24px auto 10px auto;
+	margin:24px auto 15px auto;
 	width:280px;
-	height:360px;
+	height:450px;
 }
 #about>.about_cont>.right>.img_box>img{
 	width:100%;
