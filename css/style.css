@@ -211,7 +211,7 @@ body{
 	top:0;
 	right:0;
 	width:537px;
-	height:600px;
+	height:700px;
 	background: #4c4b57;
 }
 #about>.about_cont>.right>.img_box{
@@ -224,14 +224,13 @@ body{
 	border:0;
 }
 #about>.about_cont>.right>ul{
-	margin-left:40px;
+	margin-left:20px;
 	list-style: none;
 }
 #about>.about_cont>.right>ul>li{
 	margin-bottom:10px;
 	color:rgba(255,255,255,.8);
-	font-size:14px;
-}
+	font-size:12px;
 #work{
 	width:100%;
 	min-width: 1180px;
