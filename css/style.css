@@ -115,7 +115,7 @@ body{
 	width:1180px;
 }
 #about>.about_cont>.left{
-	width:301px;
+	width:300px;
 	height:auto;
 }
 #about>.about_cont>.left>.img_box{
@@ -217,7 +217,7 @@ body{
 #about>.about_cont>.right>.img_box{
 	margin:24px auto 15px auto;
 	width:280px;
-	height:450px;
+	height:400px;
 }
 #about>.about_cont>.right>.img_box>img{
 	width:100%;
